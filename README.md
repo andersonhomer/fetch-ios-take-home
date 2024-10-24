@@ -29,6 +29,6 @@ The UI Branding code is personal code that I reuse across my projects.
 ### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
 
 The main contraint for me was the fact that the app was limited to one screen. So I kept the UI clean and simple in that regard. I added the ability to filter the recipes by Cuisine
-in addition to the required ability to refresh the recipes.
+in addition to the required ability to refresh the recipes. I also added dark mode support utiizing the Asset Catalog in the app.
 
 
