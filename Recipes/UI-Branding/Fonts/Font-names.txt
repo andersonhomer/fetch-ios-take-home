@@ -1,0 +1,17 @@
+Family: Montserrat
+Name: MontserratRoman-Regular
+Name: Montserrat-Thin
+Name: MontserratRoman-ExtraLight
+Name: MontserratRoman-Light
+Name: MontserratRoman-Medium
+Name: MontserratRoman-SemiBold
+Name: MontserratRoman-Bold
+Name: MontserratRoman-ExtraBold
+Name: MontserratRoman-Black
+Family: Oswald
+Name: Oswald-Regular
+Name: Oswald-Regular_ExtraLight
+Name: Oswald-Regular_Light
+Name: Oswald-Regular_Medium
+Name: Oswald-Regular_SemiBold
+Name: Oswald-Regular_Bold
