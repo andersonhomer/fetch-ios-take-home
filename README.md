@@ -1,7 +1,7 @@
 ### Steps to Run the App
 
 The app requires nothing out of the ordinary to run. Once the project is downloaded it can be run from Xcode.
-Im using Xcode 16.0 And the app iOS targer is iOS 18.
+Im using Xcode 16.0 And the app iOS target is iOS 18.
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
@@ -15,6 +15,7 @@ I spent about 6 hours working on this project. I spent about 4.5 hours building 
 ### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
 
 I probably could have added more UI elements but focused on spreading my time around architecture , design and testing .
+Initially I wanted to simulate paging , so that we only load subsets of the data at a time . But that is usually better when supported by the backend. Instead to limit network usage. I only load an Image when the view containing it appears . That way we dont load all the images for all the recipes when the app is launched. Only as you scroll would an image load.
 
 ### Weakest Part of the Project: What do you think is the weakest part of your project?
 
